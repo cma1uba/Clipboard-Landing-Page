@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.attribution{
+    font-size: 12px;
+    text-align: center;
+}
+a{
+    color: hsl(228, 45%, 44%);
+}
+.main-header{
+    background-image: url("../images/bg-header-mobile.png");
+    background-size: cover;
+}
