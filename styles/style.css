@@ -10,7 +10,46 @@
 a{
     color: hsl(228, 45%, 44%);
 }
-.main-header{
+img{
+    width: 100%;
+}
+.main-container{
+    max-width: 360px;
+    margin: 0 auto;
+    text-align: center;
+}
+.header-section{
     background-image: url("../images/bg-header-mobile.png");
     background-size: cover;
+    height: 100vh;
+}
+.header-section img{
+    width: 100px;
+    margin-top: 40px;
+}
+.header-section h1{
+    margin-top: 20px;
+}
+.header-section p{
+    margin-top: 20px;
+}
+.download-btn{
+    margin: 15px;
+}
+button{
+    width: 100%;
+    margin: 10px auto;
+    padding: 15px;
+    border: none;
+    border-radius: 2rem;
+    color: #fff;
+}
+.green-btn{
+    background: hsl(171, 66%, 44%);
+}
+.blue-btn{
+    background: hsl(233, 100%, 69%);
+}
+.tracking-section{
+    margin-top: 15px;
 }
