@@ -28,6 +28,7 @@ img{
     background-size: cover;
     background-position: fixed;
     height: 100vh;
+    margin-bottom: 20px;
 }
 .header-section img{
     width: 100px;
