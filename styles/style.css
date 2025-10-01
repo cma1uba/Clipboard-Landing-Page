@@ -138,7 +138,7 @@ button{
 
 @media (min-width: 400px){
     .main-container{
-        max-width: 100%;
+        max-width: 900px;
     }
     .header-section{
         background-image: url("../images/bg-header-desktop.png");
